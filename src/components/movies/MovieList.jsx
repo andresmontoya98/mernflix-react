@@ -3,7 +3,7 @@ import { Row, Col, Container, Badge, CardTitle } from 'reactstrap';
 import { getAllMovies } from "../../utils/apicalls.js";
 
 import Header from '../Header.jsx';
-import CardMovie from './CardMovie.jsx';
+//import CardMovie from './CardMovie.jsx';
 
 export default function MovieList(){
 
@@ -41,7 +41,7 @@ export default function MovieList(){
             {movies.map((movie) => {
                 return ( 
                   <Col xs ="3" sm="3" xs="4">
-                    
+                  <CardMovie movie={movie} />
                   </Col>
                 )
             })}
