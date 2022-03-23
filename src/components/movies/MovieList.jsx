@@ -3,7 +3,7 @@ import { Row, Col, Container, Badge, CardTitle } from 'reactstrap';
 import { getAllMovies } from "../../utils/apicalls.js";
 
 import Header from '../Header.jsx';
-//import CardMovie from './CardMovie.jsx';
+import CardMovie from './CardMovie.jsx';
 
 export default function MovieList(){
 
