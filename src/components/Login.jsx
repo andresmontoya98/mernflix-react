@@ -6,7 +6,7 @@ import { Row, Col, Container, Alert, Card, CardTitle, CardText, Media } from 're
 import { GoogleLogin } from 'react-google-login';
 import config from '../config.js';
 
-import MyImgLogin from '../images/background_mernflixdark.png';
+import MyImgLogin from '../images/imagen1.png';
 var imgStyle = {
   width: "100%",
   height: "100%"
