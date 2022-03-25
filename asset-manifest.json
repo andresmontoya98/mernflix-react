@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mernflix-react/static/css/main.af5b8f10.css",
+    "main.js": "/mernflix-react/static/js/main.7160592c.js",
+    "static/js/787.77bd53b8.chunk.js": "/mernflix-react/static/js/787.77bd53b8.chunk.js",
+    "static/media/background_mernflixdark.png": "/mernflix-react/static/media/background_mernflixdark.49b205c1b7af85da78d1.png",
+    "index.html": "/mernflix-react/index.html",
+    "main.af5b8f10.css.map": "/mernflix-react/static/css/main.af5b8f10.css.map",
+    "main.7160592c.js.map": "/mernflix-react/static/js/main.7160592c.js.map",
+    "787.77bd53b8.chunk.js.map": "/mernflix-react/static/js/787.77bd53b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af5b8f10.css",
+    "static/js/main.7160592c.js"
+  ]
+}
